@@ -1,0 +1,25 @@
+fazer apresentacao tcc
+*pagina home 
+*pagina de introducao
+*pagina de construcao
+*pagina de execucao
+*pagina de chekbox
+*pagina de comcruzao 
+*pagina de referencias
+
+fazer trabalho de calculo
+artigo cientifico de derivadas
+*pagina home 
+*pagina de introducao
+*pagina de costrucao
+*pagina de execucao
+*pagina de chekbox
+*pagina de comcruzao 
+*pagina de referencias
+
+fazer appplantas
+*dizain
+*server
+*app
+*contion com dbo
+fucao do crud

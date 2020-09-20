@@ -1,0 +1,12 @@
+{
+  "name": "AppPlantas",
+  "displayName": "AppPlantas",
+  "expo": {
+    "name": "AppPlantas",
+    "slug": "AppPlantas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
